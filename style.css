@@ -22,6 +22,6 @@
 
 /* The following style has an error. Do you know why? */
 
-#clear {
+.clear {
   clear: both;
 }
